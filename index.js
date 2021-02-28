@@ -6,6 +6,7 @@ $(document).ready(function(){
         items: 1
     });
 
+    
     // top sale owl carousel
     $("#top-sale .owl-carousel").owlCarousel({
         loop: true,
